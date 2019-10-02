@@ -1,0 +1,49 @@
+/* header {
+    height: 10em;
+} */
+
+.logo {
+    width: 700px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainPhoto {
+    width: 450px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px 50px 0px 0px;
+}
+
+main {
+    background-color: black;
+}
+
+.article {
+    position: relative
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+.name {
+    font-size: xx-large; 
+}
+
+h4 {
+    text-align: center;
+    padding: -10em 0px 0px 0px;
+    color: white; 
+}
+
+ul, li {
+    color: white;
+}
+
+
